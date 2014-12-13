@@ -1,0 +1,18 @@
+body {
+  background-color: green;
+  color: black;
+  font-family: 'Oswald', sans-serif;
+   
+
+
+h1 {
+  color: blue;
+  
+}
+
+/* These are extra styles */
+
+a img {
+  height: 100px;
+  width: 100px;
+}
